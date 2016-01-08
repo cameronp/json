@@ -1,0 +1,3 @@
+%{"bunt": {:hex, :bunt, "0.1.4"},
+  "credo": {:hex, :credo, "0.1.10"},
+  "dbg": {:git, "https://github.com/fishcakez/dbg.git", "ce8fae0886eabb4944227a640261d6938cf099f2", []}}
